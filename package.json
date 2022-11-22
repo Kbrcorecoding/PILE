@@ -1,0 +1,11 @@
+{
+  "name": "pile.io",
+  "version": "1.0.0",
+  "description": "Christmas HomeworkT-T",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kabir (YUNJIAN FENG)",
+  "license": "ISC"
+}
