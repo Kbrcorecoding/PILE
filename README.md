@@ -1,6 +1,22 @@
 # PILE
 A javascript phaser-3 framed simple game
 To play, download the folder and open with vscode. Use live server to run the game. Note: right click index html and select host live server for shortcut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 !!problems:
 bat is slowing donw;
 every time i have to go through a call back with so much stuff in bat gen loop
